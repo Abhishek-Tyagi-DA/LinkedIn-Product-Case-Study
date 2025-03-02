@@ -70,6 +70,8 @@ LinkedIn continues to evolve and adapt to the changing needs of professionals an
 ### **5. Global Accessibility**  
 - Expand LinkedIn’s reach to underserved regions, making professional networking and career development accessible to a broader audience.  
 
+![Image](https://github.com/user-attachments/assets/7b2b00dc-1151-430e-bd1e-1fdf963f870e)
+
 ---
 
 ## **Schema Design**  
@@ -159,10 +161,13 @@ This project successfully dissects LinkedIn's functionality and designs a schema
 
 ---
 
-### **Contact Information**  
-For questions, feedback, or collaborations, feel free to reach out:  
-- **Email:** [Your Email]  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile]  
 
----
+## 📬 Contact
+🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourname/)  
+📧 **Email:** yourname@email.com  
+
+
+🚀 **Transforming raw data into valuable insights.**
+⭐ *If you found this project useful, consider giving it a star! ⭐*
+

@@ -169,5 +169,6 @@ This project successfully dissects LinkedIn's functionality and designs a schema
 
 
 🚀 **Transforming raw data into valuable insights.**
+
 ⭐ *If you found this project useful, consider giving it a star! ⭐*
 
